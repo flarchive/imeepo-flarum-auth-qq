@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of imeepo/flarum-auth-qq.** Not for installation: use [Packagist](https://packagist.org/packages/imeepo/flarum-auth-qq) or the [upstream repository](https://github.com/imeepo/flarum-auth-qq).
 
-**0** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/imeepo-flarum-auth-qq/tree/archive/v1.0.3) · License: `MIT` · Flarum: `*`
+**4** versions archived · Latest: [`v1.0.3`](https://github.com/flarchive/imeepo-flarum-auth-qq/tree/archive/v1.0.3) · License: `MIT` · Flarum: `*`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-02-22 | `*` | [Browse](https://github.com/flarchive/imeepo-flarum-auth-qq/tree/archive/v1.0.0) |
+| `v1.0.1` | 2023-02-22 | `*` | [Browse](https://github.com/flarchive/imeepo-flarum-auth-qq/tree/archive/v1.0.1) |
+| `v1.0.2` | 2023-03-02 | `*` | [Browse](https://github.com/flarchive/imeepo-flarum-auth-qq/tree/archive/v1.0.2) |
+| `v1.0.3` | 2023-03-02 | `*` | [Browse](https://github.com/flarchive/imeepo-flarum-auth-qq/tree/archive/v1.0.3) |
 
 Catalog entry: [packages/imeepo-flarum-auth-qq.json](https://github.com/flarchive/archive-index/blob/main/packages/imeepo-flarum-auth-qq.json)
 
